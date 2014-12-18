@@ -1,4 +1,4 @@
-a_star_pathfinding
+a-star-pathfinding
 ==================
 
 A small demonstration on how A* Path Finding algorithm works
