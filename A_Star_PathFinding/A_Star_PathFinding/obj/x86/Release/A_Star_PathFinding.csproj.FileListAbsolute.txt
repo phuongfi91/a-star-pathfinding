@@ -1,0 +1,8 @@
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\bin\x86\Release\Content\Textures\Square.xnb
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\bin\x86\Release\Content\Fonts\Font.xnb
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\bin\x86\Release\A_Star_PathFinding.exe
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\bin\x86\Release\A_Star_PathFinding.pdb
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\obj\x86\Release\ResolveAssemblyReference.cache
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\obj\x86\Release\A_Star_PathFinding.exe
+C:\A_Star_PathFinding\A_Star_PathFinding\A_Star_PathFinding\obj\x86\Release\A_Star_PathFinding.pdb
